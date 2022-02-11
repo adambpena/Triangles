@@ -1,0 +1,1 @@
+run = "gcc triangles.c -o triangles; ./triangles triangle1.txt;"
